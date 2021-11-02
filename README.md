@@ -1,0 +1,2 @@
+# love-tonight-bot
+Pergunte se já tocou Shouse - Love Tonight hoje na live da [Cyber](https://twitch.tv/moniquelive) e receba a resposta. Adicionalmente, eu sou avisado quando tocar e já mando um voto pra música não sei pulada.
